@@ -1554,6 +1554,11 @@ img {
   .palatin-tabs-content .tab-content h6 {
     font-size: 18px; }
 
+    .float { position: fixed; width: 60px; height: 60px; bottom: 40px; right: 40px; background-color: rgb(37, 211, 102); color: rgb(255, 255, 255); border-radius: 50px; text-align: center; font-size: 30px; box-shadow: rgb(153, 153, 153) 2px 2px 3px; z-index: 100; }
+
+    .my-float { margin-top: 16px; }
+    
+    .float2 { position: fixed; width: 60px; height: 60px; bottom: 120px; right: 40px; background-color: rgb(37, 211, 102); color: rgb(255, 255, 255); border-radius: 50px; text-align: center; font-size: 30px; box-shadow: rgb(153, 153, 153) 2px 2px 3px; z-index: 100; }
   
 
 
